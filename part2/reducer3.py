@@ -23,7 +23,7 @@ for line in sys.stdin:
         continue
     thisKey = data_mapped
     if oldKey and oldKey != thisKey:
-        if hitCount>maxCount:
+        if hitCount>maxHit:
             maxCount = hitCount
             maxKey = oldKey
         hitCount = 0
