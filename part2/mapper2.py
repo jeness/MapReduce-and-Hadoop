@@ -14,6 +14,6 @@ for line in sys.stdin:
     #    print "{0}\t{1}".format(store, cost)  
     # ==========================
     # every item Category, calculate the total cost
-        if address == "/assets/js/the-associates.js":
-            print address
+        if ip == "10.99.99.186":
+            print ip
     # =========================
