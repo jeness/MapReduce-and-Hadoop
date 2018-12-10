@@ -53,4 +53,5 @@ hadoop fs -cat output2/part-00000 | less
 hadoop fs -cat output2/part-00000
 ```
 
-## Part 2:Write mapper and reducer on one's own
+## Part 2: Write mapper and reducer on one's own
+refers to directory part1 and part2
